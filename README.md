@@ -5,7 +5,7 @@
 ## Week 1
 
 **Get to know User Experience**
-- [Basics of User Experience Design](foundations_of_user_experience_design/week_1/1_get_to_know_user_experience/1_basics_of_user_experience_design.md))
+- [Basics of User Experience Design](foundations_of_user_experience_design/week_1/1_get_to_know_user_experience/1_basics_of_user_experience_design.md)
 - [Jobs in the UX Field](foundations_of_user_experience_design/week_1/1_get_to_know_user_experience/2_jobs_in_the_ux_field.md)
 - [Product Development Lifecycle](foundations_of_user_experience_design/week_1/1_get_to_know_user_experience/3_product_development_lifecycle.md)
 - [Design for a Good User Experience](foundations_of_user_experience_design/week_1/1_get_to_know_user_experience/4_design_for_good_user_experience.md)
